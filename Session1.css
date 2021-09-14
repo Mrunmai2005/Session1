@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+    body{
+        font-family:'Open Sans', sans-serif;
+        background-color: #ffffff;
+        scroll-behavior: smooth;
+    }
+    #navigation{
+        background-color: #03859B;
+        border: solid;
+        height: 70px;
+        border-color:#03859B ;
+        border-radius: 25px;
+        margin-bottom: 50px;
+    }
+    .List{
+       text-decoration-line: none;
+       color: #ffffff;
+       font-weight: bold;
+    }
+    .listclass{
+        display: inline;
+        margin-left: 12px;
+        margin-right: 18px;
+    }
+/* list ke liye naya class */
+    .Nav_links{
+        text-align: right;
+    }
+    header{
+        text-align: center;
+    }
+    #header1{
+        color: #03859B;
+        text-align: center;
+    }
+    #header2{
+        color: rgb(56, 57, 58);
+        text-align: center;
+        padding-bottom: 25px;
+    }
+    #Header_image{
+        max-height:500px;
+        max-width: 500px;
+        margin: auto;
+    }
+    .Name{
+        margin-left: 18px;
+        font-weight: bold;
+        font-size: 20px;
+        display: inline;
+    }
+    #section1{
+        text-align: center;
+        width: 500px;
+        margin: auto;
+        background-color: #d6fafa;
+        border: solid;
+        border-color: #d6fafa;
+        border-radius: 25px;
+    }
+    .Aboutme{
+        text-align: center;
+        color:#03859B;
+        display: block;
+    }
+    .Paragraph{
+        text-align: center;
+    }
+    #section2{
+        border-style: solid;
+        border-color:#03859B ;
+        text-align: center;
+        width: 440px;
+        margin: auto;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .project{
+        width: 440px;
+        text-align: center;
+    }
+    .Github{
+        color:#03859B;
+    }
+    .Demo{
+        display: block;
+        text-decoration: none;
+        color: azure;
+        background-color:#03859B;
+        margin:2px;
+        padding: 10px;
+        text-align: center;
+        height:24px;
+        background-position: center;
+    }
+    footer{
+        border-style: solid;
+        border-color: #d6fafa;
+        border-radius: 22px;
+        margin-top: 18px;
+        background-color: #d6fafa;
+    }
+    .get{
+        text-align: center;
+    }
+    .smedia{
+        display: block;
+        text-decoration: none;
+        color: black;
+        text-align: center;
+        margin-top: 8px;
+    }
+    .image1{
+        height:163px;
+        display: inline;
+    }
+    .Image2{
+        height: 163px;
+    }
